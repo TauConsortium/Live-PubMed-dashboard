@@ -47,7 +47,7 @@ Or open `app.R` in RStudio and click **Run App**.
 Both are entered in the app's **Settings** tab and are optional.
 
 - **NCBI API key** raises the PubMed request rate from 3 to 10 requests/second, making fetches noticeably faster. Create one from your NCBI account settings.
-- **Claude API key** enables AI classification of research type and data availability via the Anthropic API. Create one in the [Anthropic Console](https://console.anthropic.com/). Without it, the app uses its built-in keyword classifier.
+- **Claude API key** enables AI classification of research type and data availability via the Anthropic API. Create one in the [Anthropic Console](https://console.anthropic.com/).
 
 ## Notes
 
